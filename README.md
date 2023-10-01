@@ -1,3 +1,3 @@
-### Progress Tracker
+## Progress Tracker
 
-A MERN stack app
+A MERN stack app designed to track goal progress
