@@ -1,1 +1,3 @@
-# progress_tracker
+### Progress Tracker
+
+A MERN stack app
